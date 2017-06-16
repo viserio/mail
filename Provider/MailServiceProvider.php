@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Mail\Providers;
+namespace Viserio\Component\Mail\Provider;
 
 use Interop\Container\ServiceProvider;
 use Psr\Container\ContainerInterface;

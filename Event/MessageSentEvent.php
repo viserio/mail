@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Mail\Events;
+namespace Viserio\Component\Mail\Event;
 
 use Swift_Mime_SimpleMessage;
 use Viserio\Component\Contracts\Events\Event as EventContract;
